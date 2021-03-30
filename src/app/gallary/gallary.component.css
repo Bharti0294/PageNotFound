@@ -1,0 +1,14 @@
+.h1{
+    text-align: center;
+    background-color: yellowgreen;
+    color: black;
+    width: 100%;
+    height: auto;
+    padding: 5px;
+}
+
+.bg{
+    background-color: blanchedalmond;
+    width: 100%;
+    height: 800px;
+}

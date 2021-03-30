@@ -1,0 +1,37 @@
+.h5{
+    text-align: center;
+}
+.h5 a{
+    text-decoration: none;
+    color: white;
+}
+.h5 a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+.bg{
+    background-color:  rgb(15, 15, 15);
+    color: white;
+    width: 100%;
+    height: auto;
+}
+.nav{
+    background: rgb(46, 8, 8);
+    columns: white;
+    font-size: 20px;
+}
+.nav a{
+    text-decoration: none;
+    color: white;
+    padding-left: 30px;
+}
+.btn{
+    background-color: blue;
+    color: white;
+}
+.a1{
+    float: left;
+}
+.navbar-brand a1{
+    font-size: 20px;
+}
